@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 My stupid boss still prefers SVN.
 Modified on branch dev.
+Modified on master.
